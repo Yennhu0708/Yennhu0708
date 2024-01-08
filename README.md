@@ -1,5 +1,4 @@
-- Hi👋 , I’m @Yennhu0708
-- 👀 I’m interested in ...Blockchain 
+- Hi👋 , I’m Yến Như
 - 🌱 I’m currently learning ...Java, Javascript.
 - 💞️ I’m looking to collaborate on ...Dapp, Web 3.0
 - 📫 How to reach me ...
